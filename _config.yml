@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Natthawut (Boom) Boonsiriphatthanajaroen"
   avatar           : #
-  bio              : "My Bio"
-  location         : "Location"
+  bio              : "A First Year Ph.D. Operations Research and Information Engineering student at Cornell University"
+  location         : "Ithaca, NY"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
