@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Natthawut Boonsiriphatthanajaroen"
 title_separator          : "-"
-name                     : &name "Natthawut Boonsiriphatthanajaroen"
+name                     : &name "Natthawut B. (Boom)"
 description              : &description "Cornell First Year PhD Student"
 url                      : https://natthab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Natthawut (Boom) Boonsiriphatthanajaroen"
+  name             : "Natthawut (Boom) B."
   avatar           : #
   bio              : "A First Year Ph.D. Operations Research and Information Engineering student at Cornell University"
   location         : "Ithaca, NY"
