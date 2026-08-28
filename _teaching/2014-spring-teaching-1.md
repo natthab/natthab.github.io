@@ -10,12 +10,3 @@ title: "Teaching experience"
 * Undergraduate Math Grader
    - MAT 202: Linear Algebra and its Application 2018 - 2020
 
-
-<!--Heading 1
-======
-
-Heading 2
-======
-
-Heading 3 
-====== -->
