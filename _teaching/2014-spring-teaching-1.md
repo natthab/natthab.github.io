@@ -1,6 +1,5 @@
 ---
 title: "Teaching experience 1"
-<!--type: "Undergraduate course"-->
 ---
 
 * Graduate Teaching Assistant
