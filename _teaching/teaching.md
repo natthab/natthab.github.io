@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience"
+title: "Teaching Experience"
 ---
 
 * Graduate Teaching Assistant
